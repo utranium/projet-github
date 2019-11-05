@@ -1,5 +1,3 @@
 # projet-github
 
-ca me casse les C........*
-
-*Couilles
+ca me casse les Coquilles
