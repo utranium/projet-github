@@ -115,3 +115,6 @@ Il n'est pas rare de voir des languages de programmation nés de programmeur fru
 Ces programmeur aux lieu de surmonter leur frustration, réalisent au final quelque chose de plus complexe en creant un nouveau language qui sera plus adapté a leurs besoins.
 Il existe enormement de languages de programmations cependant on remarque qu'ils sont TOUS issus des meme bases : 
 C++, C, ASM.
+
+
+
