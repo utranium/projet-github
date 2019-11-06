@@ -1,6 +1,6 @@
 ## les languages de progs. ##
 
- # - Java -> 1995 : Sun Microsystems : #
+# - Java -> 1995 : Sun Microsystems : #
 Language de programmation orienté objet.
 Particularité : les programmes sont compilés et exécutés dans une machine virtuelle independante du systeme d'exploitation.
 Reprise de la syntaxe du C++ mais épuré.
@@ -84,31 +84,6 @@ Peut s'utiliser avec de nombreuses boites a outils.
 
 
 
-
-
-
-
-
-* FORTRAN -> : 1954 FORmula TRAnslator. plus ancien language de haut niveau.
-A subi d'importante évolutions.
-Encore utilisé aujourd'hui et supporte la programmation objet.
-
-
-
-* LISP -> :1958 influence directe sur la programmation objet.
-Utilisé de la programmation Web a la finance.
-Language puissant et souple.
-A rendu possible l'inteligence artificielle grace a une programmation qui travail sur des symboles plutot que des nombres.
-
-
-
-* BASIC -> :1964. influencé par ForTran.
-Beginner's All-purpose Symbolic Instruction Code
-Créér pour que les etudiants autres que scientifiques puissent utiliser des ordinateurs avant de s'ouvrir au grand public.
-Facile, generaliste, interactif, independant du systeme d'exploitation.
-
-
-
 ### Caractèristique des différents langague ###
 
 Dynamique ou static : On parle de typage statique quand la majorité des vérifications de type sont effectuées au moment de la compilation.
@@ -120,5 +95,23 @@ Interpreté : le code source (celui que vous écrivez) est interprété, par un 
 
 Compilé : le code source (celui que vous écrivez) est tout d'abord compilé, par un logiciel qu'on appelle compilateur, en un code binaire qu'un humain ne peut pas lire mais qui est très facile à lire pour un ordinateur. C'est alors directement le système d'exploitation qui va utiliser le code binaire et les données d'entrée pour calculer les données de sortie
 
-Haut niveau ou bas niveau :
-Les langages de bas niveau sont à opposer aux langages de haut niveau, qui permettent de créer un programme sans tenir compte des caractéristiques particulières (registres, etc) de l'ordinateur censé exécuter le programme.
+#Haut niveau ou bas niveau :#
+
+Les langages de bas niveau : 
+wiki : Le langage machine et le langage d'assemblage sont les archétypes de langages de bas niveau, puisqu'ils permettent de manipuler explicitement des registres, des adresses mémoires, des instructions machines.
+
+Ce qui signifie qu'en language bas niveau les instructions s'adresseent directement a des adresses mémoire ou des adresses logique de composants physique. Les languages bas niveaux sont tres souvent compilés pour etre traduit directement en language machine.
+
+Les languages haut niveaux : 
+wiki :un langage de programmation de haut niveau est un langage de programmation orienté autour du problème à résoudre, qui permet d'écrire des programmes en utilisant des mots usuels des langues naturelles (très souvent de l'anglais) et des symboles mathématiques familiers. Un langage de haut niveau fait abstraction des caractéristiques techniques du matériel utilisé pour exécuter le programme
+
+Ce qui signifie qu'un language haut niveau permettera de réaliser un programme proche de l'experience utilisateur.
+En general ces programmes utilisent des mots usuels et des symbole mathématique. ces languages sont en général interpretés.
+
+
+Conclusion : 
+
+Il n'est pas rare de voir des languages de programmation nés de programmeur frustré par l'utilisation de languages plus anciens.
+Ces programmeur aux lieu de surmonter leur frustration, réalisent au final quelque chose de plus complexe en creant un nouveau language qui sera plus adapté a leurs besoins.
+Il existe enormement de languages de programmations cependant on remarque qu'ils sont TOUS issus des meme bases : 
+C++, C, ASM.
