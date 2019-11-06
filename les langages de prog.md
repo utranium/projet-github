@@ -102,7 +102,7 @@ Facile, generaliste, interactif, independant du systeme d'exploitation.
 
 
 
-## Caractèristique des différents langague ##
+### Caractèristique des différents langague ###
 
 Dynamique ou static : On parle de typage statique quand la majorité des vérifications de type sont effectuées au moment de la compilation.
 
