@@ -4,9 +4,8 @@
 
 # Sublime Text 
 
-Sublime Text est un éditeur de texte générique codé en C++ et Python, disponible sur Windows, Mac et Linux. Le logiciel a été conçu tout d'abord comme une extension pour Vim, riche en fonctionnalités1.
 
-Depuis la version 2.0, sortie le 26 juin 20122, l'éditeur prend en charge 44 langages de programmation majeurs, tandis que des plugins sont souvent disponibles pour les langages plus rares.
+Il est écrit en C++ et Python et est disponible sur toutes les plateformes (Windows, Linux, Mac OS). Sublime texte est actuellement à la version 3.1 sortie le 7 mai 2018 est sous licence propriètaire. Il intègre la plupart des fonctionnalités de base d'un éditeur de texte, dont la coloration syntaxique, l'auto complétion, un système de plugins etc.. mais il propose aussi des fonctionnalités plus avancées tels que : la sauvegarde automatique, la personnalisation des raccourcis clavier, un marque-page au sein même des fichiers, la sélection et édition dans plusieurs sections de code en parallèle ou encore une Minimap qui permet une prévisualisation de tout le fichier dans une barre latérale. Sublime Text est un éditeur de texte puissant gratuit et disponible sur toutes les plateformes et permet la prise en charges d'un grand nombre de langages de programmation (PHP, Python, C...) Vous pouvez télécharger Sublime Text à cette adresse : 
 
 # Visual Studio Code #
 
