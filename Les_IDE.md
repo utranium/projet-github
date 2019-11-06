@@ -2,7 +2,7 @@
 
 
 
-# Sublime Text #
+# Sublime Text 
 
 Sublime Text est un éditeur de texte générique codé en C++ et Python, disponible sur Windows, Mac et Linux. Le logiciel a été conçu tout d'abord comme une extension pour Vim, riche en fonctionnalités1.
 
