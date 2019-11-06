@@ -10,7 +10,7 @@
 ## Ingénieur Logiciel ##
 * Un ingénieur logiciel est une personne qui applique les principes du génie logiciel pour analyser, concevoir, développer, tester, évaluer et maintenir des logiciels
 ## Ingénieur en cyberdéfense ##
-* Il doit :
+ Il doit :
 * Superviser et administrer en toute confidentialité les solutions du Security Operating Center (SOC)
 * Détecter, analyser et qualifier les incidents, les menaces et les attaques cyber
 * Identifier leurs sources, leurs mécanismes et bloquer leur accès aux solutions existantes
