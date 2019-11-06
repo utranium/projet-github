@@ -1,6 +1,6 @@
-# les languages de progs.
+# les languages de progs. #
 
-Java -> 1995 : language de programmation orienté objet.
+* Java -> 1995 : language de programmation orienté objet.
 Particularité : les programmes sont compilés et exécutés dans une machine virtuelle independante du systeme d'exploitation.
 Reprise de la syntaxe du C++ mais épuré.
 Permet le devellopement d'applications clients serveur
