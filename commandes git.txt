@@ -1,0 +1,10 @@
+git bash
+
+
+
+ls  liste
+cd change de dossier
+cd ..  retout repertoire
+cat  affiche
+ls -al  tous meme caché
+git status   voir le commit
