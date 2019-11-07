@@ -34,3 +34,14 @@ Komodo Edit est un éditeur de texte et environnement de développement sous for
 ## CodeLobster
 
 CodeLobster est un environnement de développement intégré portable et a été créé par CodeLobster Software. Sa dernière version stable date du 12 septembre 2016 et est la version 5.10.2. Il est principalement destiné à la création et l'édition facile et rapide de fichiers PHP, HTML, CSS et JavaScript. Il existe une version gratuite et une version payante. La version gratuite contient les fonctionnalités basiques comme l'éditeur HTML, l'inspecteur de code HTML, l'éditeur CSS... En revanche la version payante vous fournira plus de fonctionnalités et de plugins. En effet avec la version payante, CodeLobster pourra supporter des CMS (Joomla, Wordpress ou encore Drupal) mais aussi des frameworks PHP (Symfony, CakePHP, Laravel...) mais aussi des fonctionnalités comme la validation du code (code validator) ou encore le formatage de code. CodeLobster est donc un IDE fonctionnel et simple d'utilisation .
+
+## Brackets
+Brackets est un éditeur de texte open source utilisé pour le developpement web (HTML, CSS, JavaScript). Brackets a été développé par Adode Systems et est aussi maintenu par Adode. Il est sous licence MIT et sa dernière version est la 1.13 et a été publié le 18 juin 2018. Il a été écrit en HTML, CSS, JavaScript est multiplateforme (Windows, Linux, Mac OS). Le fait qu'il soit écrit dans ces trois langages permet aux développeurs d'avoir une expérience d'édition de code natif, sans aucun problème de compatibilité.
+
+### Brackets dispose de plusieurs fonctionnalités parmi lesquelles :
+
+- Quick edit*
+- Quick docs
+- Live preview*
+- Intégration d'un débuggeur JavaScript
+- Support de LESS (langage dynamique de génération de CSS)
