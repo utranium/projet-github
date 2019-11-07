@@ -1,4 +1,4 @@
-* Communauté *
+# Communauté #
 
 - Kommunauty
 - CCM (Comment ca marche)
