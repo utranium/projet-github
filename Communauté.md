@@ -10,5 +10,5 @@
 * Communauté & actualités informatique sur les logiciels et le matériel. Vous y trouverez des news, articles, tests, astuces et téléchargements... ainsi qu'un forum 
 ## lecrabeinfo ##
 * Communauté francaise pour l'entraide informatique, tutos, explications, aide, avec un forum actif.
-## PHP.developpez.com ##
-* Communauté d'entaide du langague PHP.
+## developpez.com ##
+* Communauté d'entaide de touts les langagues de programation PHP, JAVA, Python ... .
