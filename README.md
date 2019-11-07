@@ -1,16 +1,16 @@
 ☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️
 
 
-## 1. une description de votre projet 
+# 1. une description de votre projet 
 Le projet consiste à ce que nous créons nos propre cours qui nous aideront dans le futur
 
-## 2. les prérequis à l’installation 
+# 2. les prérequis à l’installation 
 Aucun prérequis d installation n'est demandé 
 
-## 3. un tuto d’installation step-by-step 
+# 3. un tuto d’installation step-by-step 
 Pour installer vous devez avoir de l espace libre sur le discdur
 
-## 4. les explications pour le paramétrage 
+# 4. les explications pour le paramétrage 
 Il existe 6 types de tests. Les tests sont décrits dans fichier json appelé par le script
 
 - requery_field : test sur la présence de champs obligatoires,
@@ -28,19 +28,19 @@ Il existe 6 types de tests. Les tests sont décrits dans fichier json appelé pa
 
 En fonction de chaque test, des paramètres supplémentaires sont disponibles
 
-# 1 - Test sur la présence champs obligatoires :
+## 1 - Test sur la présence champs obligatoires :
 Le paramètre fields est une liste de champs
 
  {
    	"type": "requery_field",
    	"fields": ["champ1", champ2"]
  }
-# 2 - Test sur le nombre d'enregistrements
+## 2 - Test sur le nombre d'enregistrements
 {
    	"type": "featurecount",
    	"nombre": 100
  }
-# 3 - Test sur le type de données.
+ ## 3 - Test sur le type de données.
 Le paramètre datatype est un type OGRFieldType. Les valeurs possibles sont : String, Integer, Integer64, Real, Date, Time. Le paramètre field précise le champ concerné.
 
 {
@@ -48,7 +48,7 @@ Le paramètre datatype est un type OGRFieldType. Les valeurs possibles sont : St
 "field": "champ1",
    	"datatype": "String"
  }
-# 4 - Test sur l'absence de valeurs nulles.
+## 4 - Test sur l'absence de valeurs nulles.
 Le paramètre critere est une expression de type SQL WHERE. Il s'agit d'un paramètre obligatoire. Si on ne souhaite pas de filtre, il faut mettre critere : "" Le paramètre fields est une liste de champs.
 
 {
@@ -56,7 +56,7 @@ Le paramètre critere est une expression de type SQL WHERE. Il s'agit d'un param
    	"fields": ["champ1", champ2"],
    	"critere" : "champ3 = 'BB1'"
  }
-# 5 - Test sur les valeurs autorisées d'un champ
+## 5 - Test sur les valeurs autorisées d'un champ
 Le paramètre critere est une expression de type SQL WHERE. Il s'agit d'un paramètre obligatoire. Si on ne souhaite pas de filtre, il faut mettre critere : "" Le paramètre rules est une liste de champs / valeurs
 
 {
@@ -67,7 +67,7 @@ Le paramètre critere est une expression de type SQL WHERE. Il s'agit d'un param
        	"values": ["1", "2", "3"]
        	}]
  }
-# 6 - Test sur les valeurs uniques.
+## 6 - Test sur les valeurs uniques.
 Le paramètre field indique le nom du champ à tester.
 
 {
@@ -77,5 +77,5 @@ Le paramètre field indique le nom du champ à tester.
 Prérequis
 le script python utilise la librairie gdal/ogr qui doit être installée.
 
-## 5. ce qui est nécessaire en plus
+# 5. ce qui est nécessaire en plus
 il est necessaire d avoir un PC portable ou fixe pour visualiser les cours
