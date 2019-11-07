@@ -66,11 +66,11 @@ Mauvais commentaires :
 
 ## Nommer les choses ##
 
-	- La premiere regle est de choisir des noms de variables prononcables et facile à retenir pour nous comme pour les autres.
-	- Eviter les noms qui induisent un contre-sens.
-	- Ne pas utiliser de noms de variable qui auraient les appellations de certaines fonctions. exemple : "if"
-	- Essayer de ne pas utiliser de caracteres qui se ressemble fortement. Exemple : "0""O" ou encore "I""1""l"
-	- Essayer de garder une cohérence en utilisant qu'une seule langue.
+- La premiere regle est de choisir des noms de variables prononcables et facile à retenir pour nous comme pour les autres.
+- Eviter les noms qui induisent un contre-sens.
+- Ne pas utiliser de noms de variable qui auraient les appellations de certaines fonctions. exemple : "if"
+- Essayer de ne pas utiliser de caracteres qui se ressemble fortement. Exemple : "0""O" ou encore "I""1""l"
+- Essayer de garder une cohérence en utilisant qu'une seule langue.
 
 
 ## Les environnements de develloppement ##
