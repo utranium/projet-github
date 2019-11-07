@@ -62,75 +62,86 @@ NetBeans rajoute, à coté du support pour CVS et SubVersion, un support pour Cl
 
 
 ## Delphi
-Éditeur : CodeGear  ·  Licence : Payant
-Présentation
+Éditeur : CodeGear  ·  
+Licence : Payant
+
 Delphi est un EDI RAD utilisant le langage Pascal Objet pour réaliser indifféremment des applications Windows Win32 et .NET.
 
 
 ## Code::Blocks
-Éditeur : Code::Blocks team  ·  Licence : Gratuit
-Présentation
+Éditeur : Code::Blocks team  ·  
+Licence : Gratuit
+
 Code::Blocks permet le développement d'applications C et C++.
 
 Code::Blocks est un environnement de développement C++ gratuit et multi-plateforme (Linux et Windows), développé pour coller au mieux aux demandes des utilisateurs. Conçu autour d'une architecture de plugins, il est ainsi extensible et configurable très facilement ce qui lui permet d'évoluer très vite.
 
 
 ## MonoDevelop
-Éditeur : MonoDevelop  ·  Licence : Gratuit
-Présentation
+Éditeur : MonoDevelop  ·  
+Licence : Gratuit
+
 MonoDevelop permet le développement d'applications Mono (.NET) en C#.
 
 Un EDI open-source complet pour Linux autour de la technologie .NET. Fonctionnellement, il se rapproche des EDI sous Windows.
 
 
 ## SharpDevelop
-Éditeur : SharpDevelop  ·  Licence : Gratuit
-Présentation
+Éditeur : SharpDevelop  ·  
+Licence : Gratuit
+
 SharpDevelop permet le développement d'applications .NET en C# et VB.NET.
 
 Que ce soit pour la version 1.1 ou 2.0 du framework .NET, cet outil permet de développer des applications Winform en .NET. Cet EDI est gratuit et open-source.
 
 
 ## KDevelop
-Éditeur : KDevelop team  ·  Licence : Gratuit
-Présentation
+Éditeur : KDevelop team  ·  
+Licence : Gratuit
+
 KDevelop permet le développement d'applications C et C++.
 
 KDevelop est un EDI pour Linux qui fait partie de la suite de logiciels proposée par l'environnement de bureau KDE. A l'inverse de ajunta, il est plutôt axé pour le développement en C++ avec Qt.
 
 
 ## Access
-Éditeur : Microsoft  ·  Licence : Payant
-Présentation
+Éditeur : Microsoft  ·  
+Licence : Payant
+
 Access est un SGBDR possédant une approche bureautique qui permet également le développement d'applications en utilisant son langage intégré VBA (Visual Basic for Application). Les bases Access (fichiers .mdb) sont également utilisables sous d'autres langages.
 
 
 ## C++ Builder
-Éditeur : CodeGear  ·  Licence : Payant
-Présentation
+Éditeur : CodeGear  ·  
+Licence : Payant
+
 C++Builder est un EDI RAD utilisant le langage C++ pour réaliser des applications Windows Win32 en utilisant la même interface que Delphi.
 
 
 ## MATLAB
-Éditeur : The MathWorks  ·  Licence : Payant
-Présentation
+Éditeur : The MathWorks  ·  
+Licence : Payant
+
 MATLAB est un EDI et un langage de programmation utilisé dans le domaine de l'éducation, de la recherche et de l'industrie pour le calcul numérique et dans les phases de développement de projets.
 
 ## LabVIEW
-Éditeur : National Instruments  ·  Licence : Payant
-Présentation
+Éditeur : National Instruments  ·  
+Licence : Payant
+
 LabVIEW est un logiciel de développement d'applications basé sur un langage de programmation graphique : le langage G.
 
 
 ## Dev-C++
-Éditeur : Bloodshed Software  ·  Licence : Gratuit
-Présentation
+Éditeur : Bloodshed Software  ·  
+Licence : Gratuit
+
 Dev-C++ est un environnement de développement intégré conçu pour développer des applications C et C++ sous Windows.
 
 
 ## Qt Creator
-Éditeur : Nokia  ·  Version : 2.0.1  ·  Date de mise à jour : 25 août 2010   ·  Licence : gratuite
-Présentation
+Éditeur : Nokia  ·  Version : 2.0.1  ·  Date de mise à jour : 25 août 2010   ·  
+Licence : gratuite
+
 Qt Creator est un EDI C++ pour Qt par Qt. Le gros avantage de cette EDI multiplateforme est sa spécialisation pour l'utilisation de Qt dans vos programmes et de sa quantité impressionnante de fonctionnalités :
 
 interface agréable et intuitive ;
@@ -149,30 +160,35 @@ Il est pensé pour utiliser des plug-ins et donc s'adapter aux différents compi
 
 
 ## XCode
-Éditeur : Apple  ·  Licence : Gratuit
-Présentation
+Éditeur : Apple  ·  Licence : 
+Gratuit
+
 XCode est un environnement de développement intégré fourni avec les dernières versions de Mac OS X, qui permet le développement pour Mac dans les langages suivants : C, C++, Objective-C, AppleScript et Java.
 
 
 ## Lazarus
-Éditeur : Lazarus Team  ·  Licence : Gratuit
-Présentation
+Éditeur : Lazarus Team  ·  
+Licence : Gratuit
+
 Lazarus est un EDI conçu pour le compilateur FreePascal qui permet la création d'applications consoles et graphiques sous Linux, FreeBSD, Windows et Mac OS X.
 
 
 ## WinDev
-Éditeur : PC Soft  ·  Licence : Payant
-Présentation
+Éditeur : PC Soft  ·  
+Licence : Payant
+
 WinDev est un atelier de génie logiciel complet utilisant son propre langage (le WLangage) qui permet le développement rapide d'applications, principalement orientées données.
 
 
 ## Dreamweaver
-Éditeur : Adobe  ·  Licence : Payant
-Présentation
+Éditeur : Adobe  ·  
+Licence : Payant
+
 DreamWeaver est un éditeur de site Web de type WYGIWYG, permettant l'édition de l'HTML mais également des langages de scripts tels que ASP et PHP.
 
 
 ## Zend Studio
-Éditeur : Zend  ·  Licence : Payant
-Présentation
+Éditeur : Zend  ·  
+Licence : Payant
+
 Zend Studio est un environnement de développement intégré conçu pour le développement en PHP.
