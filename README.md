@@ -4,13 +4,13 @@
 # 1. une description de votre projet 
 Le projet consiste à ce que nous créons nos propre cours qui nous aideront dans le futur
 
-# 2. les prérequis à l’installation 
+## 2. les prérequis à l’installation 
 Aucun prérequis d installation n'est demandé 
 
-# 3. un tuto d’installation step-by-step 
+## 3. un tuto d’installation step-by-step 
 Pour installer vous devez avoir de l espace libre sur le discdur
 
-# 4. les explications pour le paramétrage 
+## 4. les explications pour le paramétrage 
 Il existe 6 types de tests. Les tests sont décrits dans fichier json appelé par le script
 
 - requery_field : test sur la présence de champs obligatoires,
@@ -55,7 +55,7 @@ Le paramètre critere est une expression de type SQL WHERE. Il s'agit d'un param
    	"fields": ["champ1", champ2"],
    	"critere" : "champ3 = 'BB1'"
  }
-# 5 - Test sur les valeurs autorisées d'un champ
+## 5 - Test sur les valeurs autorisées d'un champ
 Le paramètre critere est une expression de type SQL WHERE. Il s'agit d'un paramètre obligatoire. Si on ne souhaite pas de filtre, il faut mettre critere : "" Le paramètre rules est une liste de champs / valeurs
 
 {
