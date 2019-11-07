@@ -15,7 +15,7 @@ Visual Studio Code prend immédiatement en charge presque tous les principaux la
 
 ## WebStorm 
 
-WebStorm est un IDE utilisé pour les langages Web type # HTML, CSS ou encore JavaScript #. Il a été développé par JetBrains basé sur la plateforme Intellij Idea. La dernière version de WebStorm est la 11.0.1 et remonte au 11 novembre 2015.
+WebStorm est un IDE utilisé pour les langages Web type HTML, CSS ou encore JavaScript . Il a été développé par JetBrains basé sur la plateforme Intellij Idea. La dernière version de WebStorm est la 11.0.1 et remonte au 11 novembre 2015.
 
 Du coté des fonctionnalités, WebStorm dispose de :
 
