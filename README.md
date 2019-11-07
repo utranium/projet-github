@@ -1,7 +1,8 @@
 ☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️
 
 
-* Les Nom des contributeurs de ce projet son dans le fichier Noms.md.
+* Les Nom des contributeurs : # Killian Sieniski - Eric Cunniet - Olivier Quillet
+
 
 # 1. une description de votre projet 
 Le projet consiste à ce que nous créons nos propre cours qui nous aideront dans le futur
