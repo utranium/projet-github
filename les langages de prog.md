@@ -109,9 +109,63 @@ Ce qui signifie qu'un language haut niveau permettera de réaliser un programme 
 En general ces programmes utilisent des mots usuels et des symbole mathématique. ces languages sont en général interpretés.
 
 
+## Typage fort et faible :
+
+ - Un language à typage fort necessitera l'utilisation de données manipulées correctement employée.
+ Exemple : si ma donnée est une chaine de caractere et qu'il me faut spécifié au programme "string", alors j'ai un typage fort.
+ en C# les type de variables sont definis par 10 types differents.
+ C'est un typage fort.
+
+Au contraire, un typage faible ne nécessitera pas une creation de variable specifique suivant les données manipulées.
+
+
 Conclusion : 
 
 Il n'est pas rare de voir des languages de programmation nés de programmeur frustré par l'utilisation de languages plus anciens.
 Ces programmeur aux lieu de surmonter leur frustration, réalisent au final quelque chose de plus complexe en creant un nouveau language qui sera plus adapté a leurs besoins.
 Il existe enormement de languages de programmations cependant on remarque qu'ils sont TOUS issus des meme bases : 
 C++, C, ASM.
+
+
+Les frameworks : 
+
+Un framework est une librairie de fonctions pour un language de programmation spécifique.
+Cela simplfie la tache en mettant à disposition tout le necessaire pour coder efficacement et rapidement.
+
+Il existe plus de frameworks que de languages étant donnés qu'un meme language peut logiquement avoir plusieurs librairies de fonctions.
+
+
+Angular JS : 2009 Google.
+framework JavaScript open-source qui prend en charge l’animation, la manipulation du DOM, le routage, l’injection de dépendance ou encore le data binding.
+
+
+ReactJS : 2013 Facebook
+Utilisé aujourd'hui par instagram, Netflix, Yahoo.
+Spécialisé dans le dévelloppement Front End.
+Integre la notion de composants facile à reutiliser entre differents prjets.
+
+
+Ruby on Rails : 2005 David Heinemeier Hansson 
+Tres souple, idéal pour commencer dans le develloppement.
+Facile d'y ajouter des fonctionnalités et dispose d'un développment rapide.
+
+
+Symfony : 2005 : SensioLabs open-source, ecrit en PHP et 100% francais.
+Facilite le developpement, flexible et grande communautée a l'appuis.
+
+
+Django : 2005 : Django Software Foundation
+Pour la création de sites web (systeme de gestions de contenus ou actualités)
+
+
+Laravel : 2011 : Taylor Otwell
+Framework PHP composé de plusieurs bibliothèque issues d'autres frameworks. Basé a la base sur Symphony
+Permet la gestion de systemes de cache, les envois d'emails, les sessions utilisateurs, la pagination et meme creer des requêtes SQL.
+
+
+ASP.NET : Utiliser pour devellopper des sites web complexe et dynamique. Utilisable avec n'importe quel language de programmation pour la pateforme .NET
+
+
+SPRING : 2003 : Pivotal Software
+Le plus ancien framework pour JAVA et certainement l'un des meilleurs. De nombreux outils pour developper, configurer et securiserdes sites webs.
+
