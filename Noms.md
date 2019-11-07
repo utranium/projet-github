@@ -1,3 +1,3 @@
-# Killian Sieniski
-# Eric    Cunniet
-# Olivier Quillet
+# * Killian Sieniski
+# * Eric    Cunniet
+# * Olivier Quillet
