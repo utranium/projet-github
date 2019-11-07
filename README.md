@@ -1,7 +1,7 @@
 ☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️
 
 
-* Les Nom des contributeurs : 
+## Les Nom des contributeurs : ##
 - Killian Sieniski 
 - Eric Cunniet 
 - Olivier Quillet
