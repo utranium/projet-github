@@ -16,5 +16,5 @@ Auditeur SSI, Expert en cybersécurité, RSSI (mis à jour)
 Acheteur IT, Manager de contrat (mis à jour), Vendor Manager, Software Asset Manager
 
 
-##Transformation des entreprises
+## Transformation des entreprises
 Chief Digital Officer, Responsable marketing de la DSI, Green IT Manager et Chargé d’affaires SI (PMO).
