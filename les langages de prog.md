@@ -98,12 +98,12 @@ Compilé : le code source (celui que vous écrivez) est tout d'abord compilé, p
 #Haut niveau ou bas niveau :#
 
 Les langages de bas niveau : 
-wiki : Le langage machine et le langage d'assemblage sont les archétypes de langages de bas niveau, puisqu'ils permettent de manipuler explicitement des registres, des adresses mémoires, des instructions machines.
+"wiki : Le langage machine et le langage d'assemblage sont les archétypes de langages de bas niveau, puisqu'ils permettent de manipuler explicitement des registres, des adresses mémoires, des instructions machines."
 
 Ce qui signifie qu'en language bas niveau les instructions s'adresseent directement a des adresses mémoire ou des adresses logique de composants physique. Les languages bas niveaux sont tres souvent compilés pour etre traduit directement en language machine.
 
 Les languages haut niveaux : 
-wiki :un langage de programmation de haut niveau est un langage de programmation orienté autour du problème à résoudre, qui permet d'écrire des programmes en utilisant des mots usuels des langues naturelles (très souvent de l'anglais) et des symboles mathématiques familiers. Un langage de haut niveau fait abstraction des caractéristiques techniques du matériel utilisé pour exécuter le programme
+"wiki :un langage de programmation de haut niveau est un langage de programmation orienté autour du problème à résoudre, qui permet d'écrire des programmes en utilisant des mots usuels des langues naturelles (très souvent de l'anglais) et des symboles mathématiques familiers. Un langage de haut niveau fait abstraction des caractéristiques techniques du matériel utilisé pour exécuter le programme"
 
 Ce qui signifie qu'un language haut niveau permettera de réaliser un programme proche de l'experience utilisateur.
 En general ces programmes utilisent des mots usuels et des symbole mathématique. ces languages sont en général interpretés.
