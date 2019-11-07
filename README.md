@@ -1,6 +1,8 @@
 ☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️
 
 
+* Les Nom des contributeur de ce projet son dans le fichier Noms.md.
+
 # 1. une description de votre projet 
 Le projet consiste à ce que nous créons nos propre cours qui nous aideront dans le futur
 
