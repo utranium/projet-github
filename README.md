@@ -1,7 +1,7 @@
 ☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️☣️
 
 
-# 1. une description de votre projet 
+## 1. une description de votre projet 
 Le projet consiste à ce que nous créons nos propre cours qui nous aideront dans le futur
 
 ## 2. les prérequis à l’installation 
@@ -20,6 +20,7 @@ Il existe 6 types de tests. Les tests sont décrits dans fichier json appelé pa
 - allowedvalues : test sur les valeurs autorisées d'un champ,
 - uniquevalue : test sur l'unicité des valeurs d'un champ,
 - Chaque test doit comporter les propriétés obligatoires suivantes
+
 
 * id : Identifiant unique du test - Chaine de charactères
 * nom : Nom ou description du test. Cette valeur est reprise dans le rapport d'analyse
@@ -55,7 +56,7 @@ Le paramètre critere est une expression de type SQL WHERE. Il s'agit d'un param
    	"fields": ["champ1", champ2"],
    	"critere" : "champ3 = 'BB1'"
  }
-## 5 - Test sur les valeurs autorisées d'un champ
+# 5 - Test sur les valeurs autorisées d'un champ
 Le paramètre critere est une expression de type SQL WHERE. Il s'agit d'un paramètre obligatoire. Si on ne souhaite pas de filtre, il faut mettre critere : "" Le paramètre rules est une liste de champs / valeurs
 
 {
@@ -76,5 +77,5 @@ Le paramètre field indique le nom du champ à tester.
 Prérequis
 le script python utilise la librairie gdal/ogr qui doit être installée.
 
-# 5. ce qui est nécessaire en plus
+## 5. ce qui est nécessaire en plus
 il est necessaire d avoir un PC portable ou fixe pour visualiser les cours
