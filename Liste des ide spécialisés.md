@@ -2,28 +2,34 @@
 
 
 ## Scilab
-Éditeur : Scilab Enterprises  ·  Licence : Open Cource
+Éditeur : Scilab Enterprises  ·  
+Licence : Open Cource
+
 Scilab est un logiciel open source gratuit de calcul numérique qui fournit un puissant environnement de développement pour les applications scientifiques et l'ingénierie. Scilab contient des centaines de fonctions mathématiques, des fonctions graphiques 2D et 3D et un environnement de programmation. Grâce à ses capacités d'interconnexion avec des technologies et des applications tierces, le logiciel Scilab peut aussi jouer le rôle de plateforme unique permettant de rassembler des codes écrits dans différents langages de programmation dans un langage unique et unifié, de favoriser leur distribution, leur sauvegarde et leur utilisation. Scilab est distribué sous la licence open source CeCILL (compatible GPL), et est téléchargeable gratuitement. Il est disponible sous GNU/Linux, Mac OS X et Windows XP/Vista/7/8 (voir les configurations système).
 
 ## Visual Studio
-Éditeur : Microsoft  ·  Licence : Payant
-Présentation
+Éditeur : Microsoft  ·  
+Licence : Payant
+
 Visual Studio permet le développement d'applications Win32 en C et C++, ainsi que le développement d'applications .NET en C# et VB.NET.
 
 Cette nouvelle version de Visual Studio est dédié à la programmation d'applications web et Windows sur les frameworks 2.0, 3.0 et 3.5 ! Coté nouveautés: LINQ, le framework objet/relationnel Entities, un concepteur visuel pour WPF et DLINQ, un editeur XAML et un support intégré pour SQL Server Compact Edition, l'Intellisense JavaScript et bien d'autres.
 
 
 ## Visual Studio Express Edition
-Éditeur : Microsoft  ·  Licence : Gratuit
-Présentation
+Éditeur : Microsoft  ·  
+Licence : Gratuit
+
+
 Visual Studio permet le développement d'applications Win32 en C et C++, ainsi que le développement d'applications .NET en C# et VB.NET.
 
 Les éditions express de Visual Studio 2008 sont des versions allégées du célèbre IDE de microsoft: Visual Studio. Les éditions express sont limitées à un seul langage (ASP.NET, C#, VB.NET, C++) et permettent de développer des applications commerciales. Elles répondent aux besoins de bien des développeurs. Ces éditions express sont en téléchargement gratuit.
 
 
 ## Eclipse
-Éditeur : Eclipse Foundation  ·  Licence : Gratuit
-Présentation
+Éditeur : Eclipse Foundation  ·  
+Licence : Gratuit
+
 Eclipse permet le développement d'applications Java principalement, mais également d'autres langages grâce à l'utilisation de plugins.
 
 Eclipse est une plateforme de developpement écrite en Java, fruit du travail d'un consortium de grandes entreprises (IBM, Borland, Rational Rose, HP...). Il en resulte un IDE performant et openSource qui a su trouver sa place comme l'un des IDs Java les plus populaires. Elle intègre pour cela la prise en charge des outils comme Ant, SVN, JUnit...
@@ -38,8 +44,10 @@ Enfin, Eclipse n'est pas limité au développement Java mais supporte aussi d'au
 
 
 ##  NetBeans
-Éditeur : Sun Microsystems  ·  Licence : Gratuit
-Présentation
+Éditeur : Sun Microsystems  ·  
+Licence : Gratuit
+
+
 NetBeans permet le développement d'applications Java, PHP, C, C++ et Ruby.
 
 NetBeans, créé à l'initiative de Sun Microsystems (Noyau de Forte4J/SunOne), présente toutes les caractéristiques indispensables à un EDI de qualité, que ce soit pour développer en Java, Ruby, C/C++ ou même PHP.
