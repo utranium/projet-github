@@ -8,3 +8,7 @@
 * Retrouvez l'actualité des nouvelles technologies et du numérique, dénichez vos produits high-tech à bas prix, profitez de nos bons plans et installez facilement
 ## NDFR ##
 * Communauté & actualités informatique sur les logiciels et le matériel. Vous y trouverez des news, articles, tests, astuces et téléchargements... ainsi qu'un forum 
+## lecrabeinfo ##
+* Communauté francaise pour l'entraide informatique, tutos, explications, aide, avec un forum actif.
+## PHP.developpez.com ##
+* Communauté d'entaide du langague PHP.
