@@ -14,7 +14,7 @@ Language de script utilisé  principalement dans les pages web interactive.
 Orienté Objet, JavaScript est le langage possédant le plus large écosystème grâce à son gestionnaire de dépendances.
 Avec HTML et CSS, considéré comme l'une des techno coeur du www.
 La majorité des sites web l'utilisent et la plupart des navigateurs possedent un interpretteur dédié.
-
+Permet l'interaction sur une page unique sans jamais un rechargement de page "S.P.A."
 
 
 # - PHP -> 1994 : Rasmus Lerdorf : #
