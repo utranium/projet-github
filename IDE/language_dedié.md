@@ -12,4 +12,8 @@
 
 - TypeScript >>>> (WebStorm)
 
+- (Android studio)  >>>> android
 
+- (Visual studio)  >>>  c#
+
+ios  >>> (Xcode)
