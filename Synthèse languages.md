@@ -2,15 +2,15 @@
 
 
 
-- Java  >> Language de programmation orienté objet  
+- Java  >> Language de programmation orienté objet   >>>>  Spring 
 type :                                          compilé
 
 
-- JavaScript >> Language de script utilisé  principalement dans les pages web interactive  
-type :      interpreté        SPA
+- JavaScript >> Language de script utilisé  principalement dans les pages web interactive  >>>> angular >> (ionic / roact / vuejs  ( SPA )
+type :      interpreté     /    SPA
 
 
-- PHP >> Permet de produire des pages web dynamiques via serveur HTTP.       
+- PHP >> Permet de produire des pages web dynamiques via serveur HTTP.  >>>>  laravel / symphony   
 type :                interpreté
 
 
