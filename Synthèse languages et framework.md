@@ -6,7 +6,7 @@
   type :                                          compilé
 
 
-- JavaScript >> Language de script utilisé  principalement dans les pages web interactive  >>>> angular >> (ionic / roact / vuejs  ( SPA )
+- JavaScript >> Language de script utilisé  principalement dans les pages web interactive  >>>> angular >> (ionic) / roact / vuejs  ( SPA )
 type :      interpreté     /    SPA
 
 
