@@ -16,7 +16,7 @@ Aucun prérequis d installation spécifique
 # 3. un tuto d’installation step-by-step 
  - 1 ouvrez le navigateur
  - 2 lancez la page "https://github.com"
- - 3 inscrivez vous 
+ - 3 Creez un compte Github 
  - 4 avec votre compte ouvrez "https://github.com/utranium/projet-github.git" pour acceder aux pages
 
 # 4. les explications pour le paramétrage 
