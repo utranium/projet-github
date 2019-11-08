@@ -60,11 +60,6 @@ En pratique, ce type de logiciel n'est pas extrêmement fiable car trop sensible
 
 ### Méthode de veille technologique
 
-Pourquoi faire de la veille ?
-
-Tout d'abord, il va falloir se demander pourquoi on souhaite mettre en place une veille technologique.
-
-Évidemment, nous avons tous de bonnes raisons d'assurer une veille technologique à titre personnel ou professionnel. Les objectifs habituels peuvent être parmi ceux-ci :
 
 - Diffusion d'information à un large public
 - Préparation d'une formation
