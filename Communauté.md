@@ -10,3 +10,5 @@
 * Communauté d'entaide de touts les langagues de programation PHP, JAVA, Python ... .
 ## Github ##
 * Communauté Importante du Codage
+## Stackoverflow
+* communauté d'aide surement une des plus importantes pour débloquer dans tous les languages
