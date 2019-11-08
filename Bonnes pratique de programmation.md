@@ -13,7 +13,7 @@ De plus un code brouillon sera plus difficle a débugger.
 
 
 
-* __Un code bien écrit est__  :
+* Un code bien écrit est :
  - Facile a lire par soi-même mais surtout par les autres.
  - Avoir une organisation logique.
  - Etre explicite (montrer clairement les intentions).
