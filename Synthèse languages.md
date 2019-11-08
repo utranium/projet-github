@@ -3,7 +3,7 @@
 
 
 - Java  >> Language de programmation orienté objet   >>>>  Spring 
-type :                                          compilé
+  type :                                          compilé
 
 
 - JavaScript >> Language de script utilisé  principalement dans les pages web interactive  >>>> angular >> (ionic / roact / vuejs  ( SPA )
