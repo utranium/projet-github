@@ -1,4 +1,4 @@
-# _les metiers de l informatique
+# les metiers de l informatique
 
 # Programmeur/Développeur #
 ## Programmeur Jeux Vidéos ##
