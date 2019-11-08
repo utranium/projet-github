@@ -10,8 +10,6 @@
 
 - Go >>>> (GoLand)
 
-- JavaScript >>>> (WebStorm)
-
 - TypeScript >>>> (WebStorm)
 
-- CoffeeScript >>>> (WebStorm)
+
