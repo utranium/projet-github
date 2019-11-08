@@ -1,3 +1,96 @@
+# les metiers de l informatique
+
+# Programmeur/Développeur #
+## Programmeur Jeux Vidéos ##
+* Le programmeur technique développe ou adapte le moteur de jeu vidéo dans son ensemble. Il fait en sorte que le jeu puisse fonctionner en synthétisant les comportements, images et sons en temps réel, tout en respectant les contraintes du support technique. Il veille ainsi à optimiser les performances du jeu.
+## Développeur d'Applications ##
+* Un développeur d’applications est chargé de la programmation d’un logiciel en suivant un cahier des charge.
+## Développeur Web ##
+* Un développeur web est un informaticien spécialisé dans la programmation ou expressément impliqué dans le développement des applications du World Wide Web, ou des applications qui sont exécutées à partir d'un serveur web sur un navigateur web et qui utilisent le protocole HTTP comme vecteur de transmission de l'information.
+## Analyste Programmeur ##
+* L’analyste-programmeur se charge alors de développer sous la direction du chef de projet, une partie d’un programme.
+
+
+# Ingénieur #
+## Ingénieur Logiciel Jeux vidéo ##
+* Il est capable seul et ou en équipe de mettre au point des logiciels ou programmes dont la fonction sera de contribuer à l'améliorations de performances des développeurs et programmeurs des applications multimédia 2 D - 3 D travaillant sur la mise au point de nouveaux jeux électroniques.
+## Ingénieur Système ##
+* l'ingénieur système est un informaticien chargé de l'étude, des tests, et de la mise en place d'architectures basées sur un système d'exploitation destinées à un ou plusieurs serveurs informatiques.
+## Ingénieur Intégrateur ##
+* Sa mission consiste à assembler les différents éléments matériels ou logiciels composant un logiciel, un équipement, un système ainsi que la vérification de la conformité du produit, système ou équipement. En charge des projets de développement jugés « complexes », c'est lui qui prépare et exécute les tests, effectue les analyses et valide les corrections.
+## Ingénieur Manager ##
+* Effectue l'interface entre le client et les services de l'entreprise par la prise en charge des aspects commerciaux, techniques et financiers selon la réglementation et les impératifs de délai, coût et qualité. Peut superviser une équipe d'ingénieurs, de chargés d'affaires industrielles ou une équipe projet.
+## Ingénieur Logiciel ##
+* Un ingénieur logiciel est une personne qui applique les principes du génie logiciel pour analyser, concevoir, développer, tester, évaluer et maintenir des logiciels
+## Ingénieur en cyberdéfense ##
+ Il doit :
+* Superviser et administrer en toute confidentialité les solutions du Security Operating Center (SOC)
+* Détecter, analyser et qualifier les incidents, les menaces et les attaques cyber
+* Identifier leurs sources, leurs mécanismes et bloquer leur accès aux solutions existantes
+* Garantir l’analyse des différentes données informatiques
+* Orienter les équipes techniques quant aux correctifs ou palliatifs à mettre en œuvre pour sécuriser le réseau et les systèmes informatiques
+* Rédiger des procédures de sécurité adaptées et sensibiliser aux enjeux de la sécurité du réseau, de la data et des systèmes informatiques
+* Veiller à leur application et à leur exploitabilité par tous les utilisateurs
+
+# Concepteur #
+
+## Concepteur réseau intranet ##
+* Le concepteur réseau intranet a de larges compétences. C'est lui qui va en préciser l'architecture, fixer le nombre de serveurs, et de postes, déterminer la procédure pour accéder aux bases de données.
+
+# Technicien #
+
+## Technicien Réseau Informatique ##
+* Il gère et contrôle le parc informatique ainsi que le réseau
+## Administrateur de Bases de données ##
+* Le rôle de l'administrateur de bases de données (BDD) est d'organiser et de gérer en toute fiabilité les systèmes de gestion des données de l'entreprise.
+## Administrateur de site web ##
+* Il est responsable d'un site web, de sa conception à sa maintenance. Le ou la webmestre est une personne professionnelle des métiers d'internet.
+## Technicien Gestionnaire de Ressources Informatiques ##
+* Il installe, met en exploitation et supervise le fonctionnement des ressources informatiques (postes de travail, serveurs, systèmes, réseaux, bases de données, applications).
+## Technicien Hot-line ##
+* Le technicien hotline est chargé de recueillir les requêtes de clients en difficulté au regard d'une installation ou utilisation de      matériel informatique.
+## Technicien Supérieur en Réseaux Informatiques et Télécommunications ##
+* Il doit installe, met en service, sécurise et assure le bon fonctionnement des réseaux informatiques et télécommunications (voix, données, images).
+## Administrateur Sécurité Réseau ##
+* L'Administrateur systèmes et réseaux a pour mission d'assurer et maintenir un réseau informatique de qualité, et la sécurité à l'usage de son entreprise.
+
+
+# Les nouveaux métiers par domaines
+
+## Donnée
+- Data Analyst
+- Data Scientist
+- Data Engineer
+- Chief Data Officer
+- Data Privacy Officer
+
+
+## Agilité
+- Coach agile
+- Scrum Master
+- Product Owner
+
+
+## Sécurité
+- Auditeur SSI
+- Expert en cybersécurité
+- RSSI (mis à jour)
+
+
+## Gestion des fournisseurs
+- Acheteur IT
+- Manager de contrat (mis à jour)
+- Vendor Manager
+- Software Asset Manager
+
+
+## Transformation des entreprises
+- Chief Digital Officer
+- Responsable marketing de la DSI
+- Green IT Manager 
+- Chargé d’affaires SI (PMO)
+
+
 # Les métiers les plus demandés avec un bachelor informatique
 
 ## Le développeur web et mobile
