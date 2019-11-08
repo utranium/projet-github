@@ -167,5 +167,7 @@ ASP.NET : Utiliser pour devellopper des sites web complexe et dynamique. Utilisa
 
 
 SPRING : 2003 : Pivotal Software
-Le plus ancien framework pour JAVA et certainement l'un des meilleurs. De nombreux outils pour developper, configurer et securiserdes sites webs.
+Le plus ancien framework pour JAVA et certainement l'un des meilleurs. De nombreux outils pour developper et configurer.
 
+IONIC : 2013 : MIT
+permet le develloppement multiplateforme à partir d'un même code.
