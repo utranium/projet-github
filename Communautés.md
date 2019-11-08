@@ -1,4 +1,4 @@
-# Communauté #
+# Communautés #
 
 ## Kommunauty ##
 * Kommunauty est une communauté informatique conviviale et dynamique basée sur le partage et l'entraide.
@@ -10,5 +10,5 @@
 * Communauté d'entaide de touts les langagues de programation PHP, JAVA, Python ... .
 ## Github ##
 * Communauté Importante du Codage
-## Stackoverflow
+## Stackoverflow ##
 * communauté d'aide surement une des plus importantes pour débloquer dans tous les languages
