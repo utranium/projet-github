@@ -11,10 +11,13 @@
 Le projet consiste à ce que nous créons nos propre cours qui nous aideront dans le futur
 
 # 2. les prérequis à l’installation 
-Aucun prérequis d installation n'est demandé 
+Aucun prérequis d installation spécifique
 
 # 3. un tuto d’installation step-by-step 
-Pour installer vous devez avoir de l espace libre sur le discdur
+ 1 ouvrez le navigateur
+ 2 lancez la page "https://github.com"
+ 3 inscrivez vous 
+ 4 avec votre compte ouvrez "https://github.com/utranium/projet-github.git" pour acceder aux pages
 
 # 4. les explications pour le paramétrage 
 Il existe 6 types de tests. Les tests sont décrits dans fichier json appelé par le script
