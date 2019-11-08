@@ -1,4 +1,4 @@
-## les languages de progs. ##
+## les langages de progs. ##
 
 # - Java -> 1995 : Sun Microsystems : #
 Language de programmation orienté objet.
@@ -84,7 +84,7 @@ Peut s'utiliser avec de nombreuses boites a outils.
 
 
 
-### Caractèristique des différents langague ###
+### Caractèristique des différents langages###
 
 Dynamique ou static : On parle de typage statique quand la majorité des vérifications de type sont effectuées au moment de la compilation.
 
